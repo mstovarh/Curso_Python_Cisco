@@ -1,0 +1,12 @@
+
+print("    *  * *       * *  *")
+print("  *        *   *        *")
+print(" *           *           *")
+print(" *                       *")
+print("  *        I <3 U       *")
+print("   *                   *")
+print("     *               *")
+print("       *           *")
+print("         *       *")
+print("           *   *")
+print("             *")
